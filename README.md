@@ -19,7 +19,7 @@ Screenshot:
 ### Downtify Requirements  
 
 * A Spotify client should be installed on your computer ([Spotify for Windows](https://www.spotify.com/il/download/windows/)).
-* You must logged in to your Spotify account (free or premium).
+* You must be logged-in to your Spotify account (free or premium).
 
 Now the program can be used. 
 
