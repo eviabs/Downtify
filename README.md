@@ -1,8 +1,8 @@
 # Downtify (for Windows)
 
-Downtify rerecords songs or playlists from Spotify, and saves it to your PC.
+Downtify rerecords songs or playlists from Spotify, and saves them to your PC.
 
-The program skips ads and downloads the tags of the recorded song.
+The program skips ads and downloads the tags of the recorded songs.
 
 Screenshot:
 ![Downtify Image](https://user-images.githubusercontent.com/14614396/33404137-d262551e-d56b-11e7-9eae-e7473773c30b.png)
