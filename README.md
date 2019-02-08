@@ -1,3 +1,11 @@
+# IMPORTANT NOTE #
+**This project is no longer mantained and doesn't work.**
+
+Some major api changes were made on Spotify's side, and Downtify must be rewritten in order to work again.**
+
+
+**Currently I still maintaning [downtify-premium](https://github.com/eviabs/downtify-premium).**
+
 # Downtify (for Windows)
 
 Downtify rerecords songs or playlists from Spotify, and saves them to your PC.
