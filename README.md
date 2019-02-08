@@ -4,7 +4,7 @@
 Some major api changes were made on Spotify's side, and Downtify must be rewritten in order to work again.**
 
 
-**Currently I'm still maintaining [downtify-premium](https://github.com/eviabs/downtify-premium).**
+**Currently I'm still maintaining [downtify-premium](https://github.com/eviabs/downtify-premium).
 
 # Downtify (for Windows)
 
