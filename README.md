@@ -1,3 +1,6 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-121798497-2/github/eviabs/Downtify)](https://github.com/igrigorik/ga-beacon)
+[![Is this project still maintained?](https://img.shields.io/badge/maintained%3F-no-red.svg?style=plastic)](https://github.com/badges/shields)
+
 # IMPORTANT NOTE #
 **This project is no longer maintained and doesn't work at the moment.**
 
